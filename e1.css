@@ -1,0 +1,186 @@
+body
+{
+	background: url(fondo.jpeg) ;
+}
+
+
+.tex
+{
+	position: absolute;
+    font-style: oblique;
+	top: 2%;
+	left: 10%;
+	width: 80%;
+	height: 18%;
+	background-color: #F2F5A9;
+}
+.fun1
+{
+	position: absolute;
+	top: 60%;
+	left: 15%;
+	width: 20%;
+	height: 50%;
+	background-color: #F2F5A9;
+}
+.f
+{
+	position: absolute;
+	background-size: cover;
+	background: url(fl.png);
+	top: 75%;
+	left: 37%;
+	width: 15%;
+	height: 25%;
+	
+}
+
+.foto1f1
+{
+	position: absolute;
+	background: url(amenf1.png);
+	background-size: contain;	
+	top: 60%;
+	left: 55%;
+	width: 25%;
+	height: 48%;
+}
+
+.vinculo1
+{
+	position: absolute;
+	background-size: contain;	
+	top: 30%;
+	left: 20%;
+	width: 25%;
+	height: 50%;
+}
+
+.vinculo2
+{
+	position: absolute;
+	background-size: contain;	
+	top: 30%;
+	left: 35%;
+	width: 25%;
+	height: 50%;
+}
+.vinculo3
+{
+	position: absolute;
+	background-size: contain;	
+	top: 30%;
+	left: 53%;
+	width: 25%;
+	height: 50%;
+	}
+
+	.vinculo4
+{
+	position: absolute;
+	background-size: contain;	
+	top: 30%;
+	left: 65%;
+	width: 25%;
+	height: 50%;
+	}
+
+.fun2
+{
+	position: absolute;
+	top: 130%;
+	left: 15%;
+	width: 20%;
+	height: 60%;
+	background-color: #F2F5A9;
+}
+
+.fle2
+{
+	position: absolute;
+	background-size: cover;
+	background: url(fl.png);
+	top:150%;
+	left: 37%;
+	width: 15%;
+	height: 25%;
+	
+}
+
+.foto2f2
+{
+	position: absolute;
+	background: url(coincidir.png);
+	background-size: contain;	
+	top: 130%;
+	left: 55%;
+	width: 25%;
+	height: 48%;
+}
+
+
+.fun3
+{
+	position: absolute;
+	top: 200%;
+	left: 15%;
+	width: 20%;
+	height: 58%;
+	background-color: #F2F5A9;
+}
+
+.fle3
+{
+	position: absolute;
+	background-size: cover;
+	background: url(fl.png);
+	top: 220%;
+	left: 37%;
+	width: 15%;
+	height: 25%;
+	
+}
+
+.foto3f3
+{
+	position: absolute;
+	background: url(indice.png);
+	background-size: contain;	
+	top: 200%;
+	left: 55%;
+	width: 25%;
+	height: 48%;
+}
+
+.fun4
+{
+	position: absolute;
+	top: 280%;
+	left: 15%;
+	width: 20%;
+	height: 60%;
+	background-color: #F2F5A9;
+}
+
+.fle4
+{
+	position: absolute;
+	background-size: cover;
+	background: url(fl.png);
+	top: 300%;
+	left: 37%;
+	width: 15%;
+	height: 25%;
+	
+}
+
+.foto4f4
+{
+	position: absolute;
+	background: url(indice2.0.png);
+	background-size: contain;	
+	top: 280%;
+	left: 55%;
+	width: 25%;
+	height: 48%;
+}
